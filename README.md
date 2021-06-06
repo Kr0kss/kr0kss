@@ -14,7 +14,7 @@
 <br /> 
 
 <a href="https://github.com/rmzaoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmzaoo&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr0kss&count_private=true&theme=dark" />
 </a>
 <br /> 
 
