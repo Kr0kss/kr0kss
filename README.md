@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-
+![](https://discord.c99.nl/widget/theme-1/836345581424738354.png)
 
 ### Connect with me:
 
