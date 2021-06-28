@@ -22,6 +22,6 @@
   <img align="left" alt="Kr0kss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kr0kss&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 
-[website]: https://suporte@kr0kss.pt/
+[suporte]: https://suporte@kr0kss.pt/
 [youtube]: https://www.youtube.com/channel/UC4AoPwMOt7aP0B0H8FD17Cw
 [instagram]: https://www.instagram.com/krokszinho_/?hl=pt
