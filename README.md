@@ -1,6 +1,7 @@
 ## Hey, I'm Kr0kss!
 
 - 🌱 I’m currently learning everything 🤣
+- 🌱 Free for projects
 
 ![](https://discord.c99.nl/widget/theme-4/473228282293125120.png)
 
