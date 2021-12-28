@@ -33,4 +33,4 @@
 [website]: https://kr0kss.pt
 [twitter]: https://twitter.com/krokszinho_
 [twitch]: https://www.twitch.tv/kr0kss
-[discord]: https://discord.kr0kss.pt
+[discord]: http://discord.kr0kss.pt
