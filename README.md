@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on **Discord bots/Sites**!
 - 👯 I’m looking to collaborate **on Discord bots.**
 - 📫 How to reach me: [geral@kr0kss.pt](mailto:geral@kr0kss.pt)
+- ☕ Buy me a coffee: [paypal.kr0kss.pt](http://paypal.kr0kss.pt)
 
 ### Connect with me:
 
