@@ -27,7 +27,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kr0kss&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr0kss&layout=compact&hide_border=false&theme=jolly"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr0kss&layout=compact"/>
 </div>
 
 [website]: https://kr0kss.pt
