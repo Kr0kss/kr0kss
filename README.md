@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://kr0kss.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="krokszinho_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gbaptistaa44 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kr0kss | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="'Kr0kss#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
@@ -31,6 +31,6 @@
 </div>
 
 [website]: https://kr0kss.pt
-[twitter]: https://twitter.com/krokszinho_
+[twitter]: https://twitter.com/gbaptistaa44
 [twitch]: https://www.twitch.tv/kr0kss
 [discord]: http://discord.kr0kss.pt
