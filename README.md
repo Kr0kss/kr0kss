@@ -1,9 +1,9 @@
 # Hello there!
 
-- 🔭 I’m currently working on **Discord bots/Sites**!
-- 👯 I’m looking to collaborate **on Discord bots.**
-- 📫 How to reach me: [geral@kr0kss.pt](mailto:geral@kr0kss.pt)
-- ☕ Buy me a coffee: [paypal.kr0kss.pt](http://paypal.kr0kss.pt)
+- 🔭 I’m currently working on **Nothing**!
+- 👯 I’m looking to collaborate **FiveM Servers.**
+- 📫 How to reach me: [kroksfn@gmail.com](mailto:kroksfn@gmail.com)
+- ☕ Buy me a coffee: [paypal.me/krokss](https://paypal.me/krokss)
 
 ### Connect with me:
 
