@@ -5,6 +5,11 @@
 - 📫 How to reach me: [kroksfn@gmail.com](mailto:kroksfn@gmail.com)
 - ☕ Buy me a coffee: [paypal.me/krokss](https://paypal.me/krokss)
 
+## Contact:
+
+- Discord: 'Kr0kss
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/473228282293125120)](https://discord.com/users/473228282293125120)
 
 
 ### Languages and Tools:
