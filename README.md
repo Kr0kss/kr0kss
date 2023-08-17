@@ -5,11 +5,7 @@
 - 📫 How to reach me: [kroksfn@gmail.com](mailto:kroksfn@gmail.com)
 - ☕ Buy me a coffee: [paypal.me/krokss](https://paypal.me/krokss)
 
-### Connect with me:
 
-[<img align="left" alt="gbaptistaa44 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kr0kss | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-<br />
 
 ### Languages and Tools:
 
@@ -28,5 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr0kss&layout=compact"/>
 </div>
 
-[twitter]: https://twitter.com/gbaptistaa44
-[twitch]: https://www.twitch.tv/gbaptistaa44
