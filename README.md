@@ -21,11 +21,6 @@
 <br />
 <br />
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.diogomarques.dev/" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/13745l4chfa8l7d4tiahkpmx4)
-
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kr0kss&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr0kss&layout=compact"/>
