@@ -8,6 +8,7 @@
 ## Contact:
 
 - Discord: 'Kr0kss
+- Website: [krokss.com](https://krokss.com/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/473228282293125120)](https://discord.com/users/473228282293125120)
 
