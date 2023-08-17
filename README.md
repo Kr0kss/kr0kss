@@ -1,7 +1,7 @@
 # Hello there!
 
 - 🔭 I’m currently working on **Nothing**!
-- 👯 I’m looking to collaborate **FiveM Servers.**
+- 👯 I’m looking to collaborate on **FiveM Servers.**
 - 📫 How to reach me: [kroksfn@gmail.com](mailto:kroksfn@gmail.com)
 - ☕ Buy me a coffee: [paypal.me/krokss](https://paypal.me/krokss)
 
