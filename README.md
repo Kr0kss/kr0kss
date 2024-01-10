@@ -24,7 +24,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+pr
 
 <div align="center">
     <a href="https://wakatime.com/@kroksj">
-        <img src="https://wakatime.com/badge/user/0420002a-2961-49e9-bd88-efcb03deddec.svg"
+        <img src="https://wakatime.com/badge/user/018c360e-1655-47ad-8899-0e901e656f3b.svg"
             alt="Total time coded since Dec 4 2023" />
     </a>
 </div>
