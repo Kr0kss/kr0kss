@@ -4,8 +4,8 @@
 
 <br/>
 <div style="display: inline_block" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css" /><br>
 </div>
 
 <br>
