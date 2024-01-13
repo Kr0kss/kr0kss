@@ -1,19 +1,11 @@
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kr0kss 🚀;" />
+</h1>
 
-<p align="center">
-    <a href="https://wakatime.com/@kroksj" target="_blank" />
-</p>
-
+<br/>
 <div style="display: inline_block" align="center">
-    <img align="center" alt="Javascript" height="35" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Node.js" height="35" width="35"
-        src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-    <img align="center" alt="HTML5" height="35" width="35"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" height="35" width="35"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql" /><br>
 </div>
 
 <br>
