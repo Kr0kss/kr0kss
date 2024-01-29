@@ -4,7 +4,7 @@
 
 <br/>
 <div style="display: inline_block" align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,vite,python" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,vite" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,typescript,react" /><br>
 </div>
 
